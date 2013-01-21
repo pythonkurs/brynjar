@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: brynjar
+Version: 0.2dev
+Summary: First package for python course
+Home-page: https://github.com/binnisb
+Author: Brynjar Smari Bjarnason
+Author-email: binni@binnisb.com
+License: GPLv3
+Description:  
+Keywords: python scilifelab
+Platform: UNKNOWN

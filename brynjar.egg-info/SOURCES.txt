@@ -1,4 +1,3 @@
-README
 setup.cfg
 setup.py
 brynjar/__init__.py

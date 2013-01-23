@@ -7,3 +7,4 @@ brynjar.egg-info/dependency_links.txt
 brynjar.egg-info/entry_points.txt
 brynjar.egg-info/top_level.txt
 brynjar.egg-info/zip-safe
+scripts/getting_data.py

@@ -14,6 +14,7 @@ setup(name='brynjar',
       url='https://github.com/binnisb',
       license='GPLv3',
       packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
+      scripts=["scripts/getting_data.py"],
       include_package_data=True,
       zip_safe=True,
       install_requires=[

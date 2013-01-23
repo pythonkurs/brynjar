@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/home/binni/.virtualenvs/py2.7/bin/python
 import sys
 sys.path.append("../")
 import brynjar as b

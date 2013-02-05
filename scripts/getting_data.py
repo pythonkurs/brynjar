@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import sys
 sys.path.append("../")
-import brynjar as b
-frac = b.get_esc_repair_frac_NYCT()
+from brynjar.session2 import get_esc_repair_frac_NYCT
+
+frac = get_esc_repair_frac_NYCT()
 print frac
